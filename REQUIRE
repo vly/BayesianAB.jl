@@ -1,0 +1,4 @@
+julia 1.0
+Distributions 0.17
+Gadfly 1.0
+JuliaDB 0.12
